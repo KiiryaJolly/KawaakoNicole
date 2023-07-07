@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+.succ{
+  border-left: 4px solid darkgreen;
+  padding-left: 15px;
+
+}
+.completed{
+  text-decoration: line-through;
+  opacity:0.5;
+}
+
+body{
+  background-color: lightblue;
+}

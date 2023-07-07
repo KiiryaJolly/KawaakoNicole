@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.succ {
+  border-left: 4px solid darkgreen;
+  padding-left: 15px;
+}
+
+.completed {
+  text-decoration: line-through;
+  opacity: 0.5;
+}
+
+a{
+  text-decoration: none;
+}
+
+.expired{
+  background-color: rgb(182, 10, 10) !important;
+}
+
+/* progress[] */
